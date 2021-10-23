@@ -1,0 +1,7 @@
+Пересесть с CocServer на Native LSP
+Вместе с Native LSP добавить nvim-treesitter
+Сменить NERDTree на nvim-tree
+Сменить vemdevicons на nvim-web-devicons
+Переписать конфиг с vimscript на lua
+?Добавить dashboard-nvim
+?Добавить neoscroll
