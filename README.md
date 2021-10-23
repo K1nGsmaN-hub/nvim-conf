@@ -4,31 +4,31 @@
 
 # Installation
 #### install brew
-\`\`\`shell
+```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-\`\`\`
+```
 #### install brew packages 
-\`\`\`shell
+```shell
 brew install git node yarn neovim ripgrep fd
-\`\`\`
+```
 #### clone repository
-\`\`\`shell
+```shell
 git clone https://github.com/K1nGsmaN-hub/nvim-conf.git ~/.config/nvim/
-\`\`\`
+```
 #### update node
-\`\`\`shell
+```shell
 sudo npm i -g n
 sudo n latest
-\`\`\`
+```
 #### install vimplug
-\`\`\`shell
+```shell
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-\`\`\`
+```
 #### install neovim plugins
-\`\`\`shell
+```shell
 nvim +PlugInstall
-\`\`\`
+```
 
 ### To display the icons correctly, make sure your terminal is using a Nerd Font, here is the link to check the fonts: https://github.com/ryanoasis/nerd-fonts#patched-fonts 
 <br />
