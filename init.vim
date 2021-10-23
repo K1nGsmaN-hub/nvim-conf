@@ -167,6 +167,7 @@ autocmd StdinReadPre * let s:std_in=1
 autocmd VimEnter * NERDTree
 
 let g:NERDTreeGitStatusWithFlags = 1
+let g:NERDTreeShowHidden=1
 let g:NERDTreeIgnore = ['^node_modules$']
 " sync open file with NERDTree
 " " Check if NERDTree is open or active
