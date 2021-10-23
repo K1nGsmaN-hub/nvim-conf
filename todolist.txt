@@ -1,3 +1,4 @@
+Дополнить README.md описанием установленных плагинов и описанием горячих клавиш
 Пересесть с CocServer на Native LSP
 Вместе с Native LSP добавить nvim-treesitter
 Сменить NERDTree на nvim-tree
