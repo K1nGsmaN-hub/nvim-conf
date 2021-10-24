@@ -1,12 +1,1 @@
-{
-  "suggest.noselect": false,
-  "coc.preferences.formatOnSaveFiletypes": [
-    "javascript",
-    "typescript",
-    "typescriptreact",
-    "json",
-    "javascriptreact",
-    "typescript.tsx"
-  ],
-  "vetur.format.enable": false
-}
+../../.dotfiles/neovim/.config/nvim/coc-settings.json

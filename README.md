@@ -31,18 +31,9 @@ nvim +PlugInstall
 ```
 
 ### To display the icons correctly, make sure your terminal is using a Nerd Font, here is the link to check the fonts: https://github.com/ryanoasis/nerd-fonts#patched-fonts 
-<br />
-<h3> Why should you use NeoVim instead of VSCode? 🤔 </h3>
-<ul>
-  <li>If you haven't a lot of RAM and CPU available, NeoVim is a good alternative</li>
-  <li>NeoVim is an improved version of the traditional and famous editor Vim</li>
-  <li>NeoVim is an open-source text-editor, and also is a highly extensible editor</li>
-  <li>You can customize it by using plugins, or VimScript</li>
-  <li>NeoVim is very light, does not lock, its startup is fast and consumes very little resources on your machine</li>
-</ul>
-<br />
-<h3>By using this settings, how will my NeoVim looks like?</h3>
-<br />
-<h1 align='center'>
-  <img src='https://i.ibb.co/p20BnHd/Screenshot-20201228-152256.png' alt='NeoVim VSCode'/>
-</h1>
+
+
+### Hotkeys
+
+To show hotkeys type `\hk` 
+Will be open **Telescope keymaps**
